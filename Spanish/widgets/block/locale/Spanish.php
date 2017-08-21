@@ -4,8 +4,8 @@
 | Copyright (C) PHP-Fusion Inc
 | https://www.php-fusion.co.uk/
 +--------------------------------------------------------+
-| Filename: Block/locale/English.php
-| Author: Frederick MC Chan (Chan)
+| Filename: block/locale/Spanish.php
+| Author: Mateo UT (Talocha)
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
